@@ -1,4 +1,4 @@
-# MECA-481_Pendulum
+# MECA-482_Pendulum
 Inverted Pendulum Project for Control Systems Design
 
 Locations:
